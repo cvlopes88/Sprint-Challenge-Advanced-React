@@ -31,7 +31,7 @@
 }
 
 .toggle {
-  background: #f68819;
+  background: purple;
   border-radius: 50px;
   height: 18px;
   left: 0;
@@ -60,4 +60,12 @@
   border: 2px solid blueviolet;
   display: flex;
   justify-content: center;
+}
+
+.value {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 40px
 }

@@ -66,3 +66,23 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+
+Why would you use class component over function components (removing hooks from the question)?
+Only if im working on a project started by another developer and they build the components using class component.
+
+ Name three lifecycle methods and their purposes.
+ the 1st its the mounting phase where  constructor is setup or start building the component and the state data its initialized, 2nd its the updating phase where props received from parent will update the child component where we use the method componentDidUpdate and the last phase its the un-mounting phase where componentWillUnmount when we want to stop a event. 
+
+
+ What is the purpose of a custom hook?
+the purpose of custom hook is that it allow us to extract a component logic that we can reuse it in multiple components. 
+
+
+ Why is it important to test our apps?
+
+ testing our apps its important because we can save a lot of time with bugs and 
+ gives u confidence when you have to make  changes to your code because you get faster feedback if something its wrong  
